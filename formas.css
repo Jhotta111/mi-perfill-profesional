@@ -1,16 +1,7 @@
-html# {
+html {
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(216, 216, 216);
-}
-body# {
-    margin-left: 5%;
-    margin-right: 5px;
-    width: 460px;
-    border-bottom: 10px blue solid;
-    border-top: 10px green solid;
-    border-left: 10px red solid;
-    border-right: 10px white solid;
 }
 
 header {
@@ -53,10 +44,10 @@ img {
 
 img {
     position: absolute;
-    top: 2%;
-    left: 45%;
-    height:750px; 
-    width:350px;
+    top: 17%;
+    left: 52%;
+    height:664px; 
+    width:320px;
 }
 
 
@@ -201,4 +192,9 @@ caption.fo {
     text-decoration: underline;
     font-weight: bold;
     margin-left: 10%;
+}
+
+img.fo {
+    width: 40px;
+    height: 40px;
 }
