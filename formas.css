@@ -1,13 +1,13 @@
 html {
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(216, 216, 216);
+    background-color: rgb(212, 212, 212);
 }
 
 header {
     height: 750px;
     width: 100%;
-    background-color: rgb(212, 212, 212);
+    background-color: rgb(255, 255, 255);
     font-weight: bold;
     font-size: 128%;
 }
